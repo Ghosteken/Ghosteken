@@ -6,6 +6,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Backend+Developer;Ready+to+learn+new+things"></a>
 </p>
 
+<p align="center"> 
+  <a href="https://github.com/Ghosteken?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Ghosteken?color=FFBF00&style=for-the-badge&labelColor=ff5e00&logo=star"/></a>
+  <a href="https://github.com/Ghosteken?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Ghosteken?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=Ghosteken&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Ghosteken" height=25px, width=150px/> 
@@ -32,6 +38,7 @@
 </p>
 
 # 📊 GitHub Stats:
+<img src="assets/light.gif">
 <p align="center"> 
 
 ![](https://github-readme-stats.vercel.app/api?username=Ghosteken&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -43,19 +50,29 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosteken&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </p>
 
+## 📈 Productivity Stats:
+<table align="center">
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ghosteken&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+  </tr> 
+</table>
+
 ## 🏆 GitHub Trophies
+<img src="assets/light.gif">
 <p align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=Ghosteken&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </p>
 
 ### ✍️ Random Dev Quote
+<img src="assets/light.gif">
 <p align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </p>
 
 ### 🔝 Top Contributed Repo
+<img src="assets/light.gif">
 <p align="center">
 
 ![](https://github-contributor-stats.vercel.app/api?username=Ghosteken&limit=5&theme=dark&combine_all_yearly_contributions=true)
