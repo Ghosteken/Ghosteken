@@ -6,6 +6,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Backend+Developer;Ready+to+learn+new+things"></a>
 </p>
 
+<div align="center">
+  <img src="assets/night coding.gif">
+</div>
+
 <p align="center"> 
   <a href="https://github.com/Ghosteken?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Ghosteken?color=FFBF00&style=for-the-badge&labelColor=ff5e00&logo=star"/></a>
