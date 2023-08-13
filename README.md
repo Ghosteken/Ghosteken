@@ -25,7 +25,7 @@
 
 <br><br>
 
-👋 Hi, I’m Nicholas..<br>🔭 I’m interested in working with Back-end  Full Stack Web Development Projects, ```MERN Webpages ``` MERN Webpages and anything related to Competitive Programming.<br>👯 I’m looking to collaborate on new ways on projects of ```Web Development, Nodejs, Python and Go with Typescript ```  or any creative ideas.<br>🌱 I’m currently learning new tech stack implementation and working over my skills.<br>📫 You can reach out to me at aigberuan6@gmail.com or drop a message at https://www.linkedin.com/in/aigberua-nicholas/<br>💬 Ask me anything about ```Python Programming```<br>⚡ Fun fact: I code, we all do 😁.<br><br>    <br>    
+👋 Hi, I’m Nicholas..<br>🔭 I’m interested in working with Back-end  Full Stack Web Development Projects, ```MERN Webpages ``` and anything related to Competitive Programming.<br>👯 I’m looking to collaborate on new ways on projects of ```Web Development, Nodejs, Python and Go with Typescript ```  or any creative ideas.<br>🌱 I’m currently learning new tech stack implementation and working over my skills.<br>📫 You can reach out to me at aigberuan6@gmail.com or drop a message at https://www.linkedin.com/in/aigberua-nicholas/<br>💬 Ask me anything about ```Python Programming```<br>⚡ Fun fact: I code, we all do 😁.<br><br>    <br>    
 
 ## 🌐 Socials:
 
