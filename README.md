@@ -44,17 +44,7 @@
 
 ## 📊 GitHub Stats:
 <img src="assets/light.gif">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ghosteken
-&theme=monokai&hide_border=false&include_all_commits=true&count_private=true">
-  <br>
-  <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ghosteken
-&theme=monokai&hide_border=false">
-  <br>
-  <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosteken
-&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-</div>
+
 
 
 <!-- # 📊 GitHub Stats:
