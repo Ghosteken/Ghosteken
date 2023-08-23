@@ -86,14 +86,14 @@
 ![](https://github-profile-trophy.vercel.app/?username=Ghosteken&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </p>
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 <img  src="https://github.com/Ghosteken/Ghosteken/blob/main/Images/borderseperator.gif">
 <p align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </p>
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 <img  src="https://github.com/Ghosteken/Ghosteken/blob/main/Images/borderseperator.gif">
 <p align="center">
 
