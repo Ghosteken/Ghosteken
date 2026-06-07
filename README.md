@@ -35,10 +35,6 @@
   <img src="https://img.shields.io/badge/Scalability-333333?style=for-the-badge&logo=airbyte&logoColor=white" />
 </p>
 
-- **Clean Architecture:** Ensuring separation of concerns and maintainability across the stack.
-- **Design Patterns:** Expert implementation of Creational, Structural, and Behavioral patterns.
-- **TDD/BDD:** Commitment to high code coverage and reliability through automated testing.
-
 ---
 
 ### 💻 Tech Stack
@@ -108,7 +104,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ghosteken/Ghosteken/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   <br>
-  <i>Note: The snake animation will appear here once the GitHub Action runs after your first push!</i>
 </p>
 
 ---
