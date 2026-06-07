@@ -9,74 +9,78 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Ghosteken?color=FFBF00&style=for-the-badge&labelColor=ff5e00&logo=star"/></a>
   <a href="https://github.com/Ghosteken?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Ghosteken?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Ghosteken&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Ghosteken" />
+  <img src="https://komarev.com/ghpvc/?username=Ghosteken&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=eye" alt="Ghosteken" />
 </p>
 
 ---
 
 ### <img src="https://raw.githubusercontent.com/Ghosteken/Ghosteken/main/Images/about_me.gif" width="30"> About Me
 
-👋 Hi, I’m **Nicholas**, a passionate **Backend Developer** and **Full Stack Web Developer** based in Nigeria. I love building scalable applications and exploring new technologies.
+👋 Hi, I’m **Nicholas**, a dedicated **Backend Developer** and **Full Stack Engineer** based in Nigeria. I specialize in building robust, scalable server-side architectures and seamless full-stack applications.
 
-- 🔭 **I’m currently working on:** Backend-heavy Full Stack projects and MERN applications.
-- 🌱 **I’m currently learning:** Advanced Go, System Design, and Cloud Architecture.
-- 👯 **I’m looking to collaborate on:** Open-source projects involving Node.js, Python, Go, or TypeScript.
-- 💬 **Ask me about:** Python, Django, Node.js, and Competitive Programming.
-- ⚡ **Fun fact:** I believe every line of code is a step towards solving a bigger problem (and I code a lot!).
+- 🔭 **Expertise:** Designing high-performance APIs, database optimization, and cloud-native deployments.
+- 🌱 **Current Focus:** Deep diving into Advanced System Design, Microservices Orchestration, and Cloud-Native Go.
+- 👯 **Collaboration:** Open to high-impact projects involving complex backend systems, Node.js, Python, or Go.
+- 💬 **Ask me about:** Distributed systems, Python performance tuning, and Competitive Programming.
+- ⚡ **Philosophy:** Engineering is about crafting elegant solutions to complex problems, one commit at a time.
+
+---
+
+### 🏛 Architecture & Principles
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Clean%20Code-000000?style=for-the-badge&logo=codeproject&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOLID-444444?style=for-the-badge&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRY-222222?style=for-the-badge&logo=standard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scalability-333333?style=for-the-badge&logo=airbyte&logoColor=white" />
+</p>
+
+- **Clean Architecture:** Ensuring separation of concerns and maintainability across the stack.
+- **Design Patterns:** Expert implementation of Creational, Structural, and Behavioral patterns.
+- **TDD/BDD:** Commitment to high code coverage and reliability through automated testing.
 
 ---
 
 ### 💻 Tech Stack
 
-<details open>
-  <summary><b>Languages & Frameworks</b></summary>
-  <p align="left">
-    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  </p>
-</details>
+<img src="https://raw.githubusercontent.com/Ghosteken/Ghosteken/main/Images/borderseperator.gif" width="100%">
 
-<details>
-  <summary><b>Frontend & Design</b></summary>
-  <p align="left">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    <img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
-  </p>
-</details>
+#### 🚀 Languages & Core Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+</p>
 
-<details>
-  <summary><b>Cloud & Databases</b></summary>
-  <p align="left">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  </p>
-</details>
+#### 🎨 Frontend & UI/UX
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
+</p>
 
-<details>
-  <summary><b>Tools & Others</b></summary>
-  <p align="left">
-    <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
-  </p>
-</details>
+#### ☁️ Cloud, DevOps & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
+
+<img src="https://raw.githubusercontent.com/Ghosteken/Ghosteken/main/Images/light.gif" width="100%">
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ghosteken&theme=monokai&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" width="45%" />
@@ -89,20 +93,22 @@
 
 ---
 
+### 🏆 Trophies & Achievements
+
+<img src="https://raw.githubusercontent.com/Ghosteken/Ghosteken/main/Images/borderseperator.gif" width="100%">
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ghosteken&theme=radical" />
+</p>
+
+---
+
 ### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ghosteken/Ghosteken/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   <br>
   <i>Note: The snake animation will appear here once the GitHub Action runs after your first push!</i>
-</p>
-
----
-
-### 🏆 Trophies & Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ghosteken&theme=radical" />
 </p>
 
 ---
