@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Nicholas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Nicholas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Backend+Developer;Full+Stack+Engineer;Ready+to+learn+new+things"></a>
@@ -6,15 +6,15 @@
 
 <p align="center">
   <a href="https://github.com/Ghosteken?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Ghosteken?color=FFBF00&style=for-the-badge&labelColor=ff5e00&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Ghosteken?color=FFBF00&style=for-the-badge&labelColor=ff5e00&logo=star"/></a>
   <a href="https://github.com/Ghosteken?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Ghosteken?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Ghosteken&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Ghosteken" />
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Ghosteken?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Ghosteken&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Ghosteken" />
 </p>
 
 ---
 
-### <img src="https://github.com/Ghosteken/Ghosteken/blob/main/Images/about_me.gif?raw=true" width="30"> About Me
+### <img src="https://raw.githubusercontent.com/Ghosteken/Ghosteken/main/Images/about_me.gif" width="30"> About Me
 
 👋 Hi, I’m **Nicholas**, a passionate **Backend Developer** and **Full Stack Web Developer** based in Nigeria. I love building scalable applications and exploring new technologies.
 
@@ -79,12 +79,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ghosteken&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosteken&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ghosteken&theme=monokai&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosteken&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghosteken&theme=monokai&hide_border=false" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=Ghosteken&theme=monokai&hide_border=false" width="75%" />
 </p>
 
 ---
@@ -92,7 +92,9 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ghosteken/Ghosteken/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Ghosteken/Ghosteken/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <br>
+  <i>Note: The snake animation will appear here once the GitHub Action runs after your first push!</i>
 </p>
 
 ---
@@ -100,7 +102,7 @@
 ### 🏆 Trophies & Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ghosteken&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ghosteken&theme=radical" />
 </p>
 
 ---
@@ -123,8 +125,4 @@
   <a href="mailto:aigberuan6@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ghosteken&icon=0&color=0" alt="Visit Count" />
 </p>
