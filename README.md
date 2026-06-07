@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Nicholas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&center=true&vCenter=true&width=600&height=100&lines=Backend+Developer;Full+Stack+Engineer;Distributed+Systems;>+Initializing+Hacker+Mode..."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&center=true&vCenter=true&width=600&height=100&lines=Backend+Developer;Full+Stack+Engineer;Distributed+Systems"></a>
 </p>
 
 <p align="center">
@@ -102,7 +102,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghosteken&theme=tokyo-night&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghosteken&theme=tokyo-night&area=true&hide_border=true&hide_title=true" width="100%" />
 </p>
 
 ---
@@ -110,7 +110,7 @@
 ### 🧱 3D Contribution Map
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Ghosteken&theme=dark" width="100%" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Ghosteken&theme=radical" width="100%" />
 </p>
 
 ---
