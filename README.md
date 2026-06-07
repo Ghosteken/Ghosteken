@@ -99,7 +99,15 @@
 
 ---
 
-### 🐍 Contribution Snake
+### � Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghosteken&theme=react-dark" width="100%" />
+</p>
+
+---
+
+### �🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ghosteken/Ghosteken/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
